@@ -39,9 +39,17 @@ yay -S apktool curl jq
 # macOS (Homebrew)
 brew install apktool curl jq
 
+
+---
+
+
 ## USO
 chmod +x extract_firebase.sh
 ./extract_firebase.sh --apk path/to/apk.apk
+
+
+---
+
 
 
 ## Adventencia
