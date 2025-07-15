@@ -26,7 +26,6 @@ Realiza:
 - `bash` (>= 4.0)
 - [`apktool`](https://ibotpeaches.github.io/Apktool/)
 - [`curl`](https://curl.se/)
-- [`jq`](https://stedolan.github.io/jq/) (opcional pero recomendado para legibilidad)
 
 Instalación de dependencias (ejemplos):
 
