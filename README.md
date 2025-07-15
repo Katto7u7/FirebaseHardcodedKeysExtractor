@@ -21,7 +21,7 @@ Realiza:
 
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 - `bash` (>= 4.0)
 - [`apktool`](https://ibotpeaches.github.io/Apktool/)
@@ -39,11 +39,11 @@ yay -S apktool curl jq
 # macOS (Homebrew)
 brew install apktool curl jq
 
-# USAGE
+## USO
 chmod +x extract_firebase.sh
 ./extract_firebase.sh --apk path/to/apk.apk
 
 
-# Adventencia
+## Adventencia
 Este script no explota vulnerabilidades, sino que identifica malas prácticas de desarrollo: incluir claves en texto plano dentro de APKs.
 Debe ser utilizado exclusivamente con fines educativos, de auditoría propia o con consentimiento explícito.
